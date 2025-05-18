@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Lucas | Data Analyst
 
 Turning raw data into insights using Python, SQL, Sheets & a bit of AI.
